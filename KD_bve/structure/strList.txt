@@ -1,0 +1,9 @@
+BveTs Structure List 1.00
+Rail0, rail\rail.x
+Rail1, rail\brail_v1.0.x
+Rail2, rail\kd_rail_barust_neo.x
+Rail3, rail\unchi.x
+Rail4, rail\kd_rail.x
+Rail5, tool\ruler15ⅿ.x
+ruler15, tool\ruler15ⅿ.x
+ruler15pre, tool\ruler15ⅿpre.x
